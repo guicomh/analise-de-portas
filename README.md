@@ -5,7 +5,7 @@ Um simples script em Python para escanear portas em um determinado host.
 ## Como usar
 
 1. Certifique-se de ter o Python instalado no seu sistema.
-2. Execute o script `scanner_de_portas.py`.
+2. Execute o script `main.py`.
 3. Insira o endereço IP do host que deseja escanear quando solicitado.
 4. O script escaneará as portas especificadas no código e informará quais estão abertas.
 5. Após a conclusão do escaneamento, pressione Enter para sair do programa.
